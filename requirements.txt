@@ -1,0 +1,7 @@
+numpy==2.1.1
+opencv_python==4.11.0.86
+PySide6==6.8.3
+PySide6==6.8.3
+PySide6_Addons==6.8.3
+PySide6_Essentials==6.8.3
+ultralytics==8.3.97
